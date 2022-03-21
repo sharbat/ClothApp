@@ -9,7 +9,7 @@ This app is for exploring the [Activity Lifecycle callback methods](https://deve
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen0.png) ![Screenshot1](screenshots/screen1.png) ![Screenshot1](screenshots/screen2.png)
+![Screenshot1](Screenshots/screen0.jpg) ![Screenshot1](Screenshots/screen1.jpg) ![Screenshot1](Screenshots/screen2.jpg)
 
 ## How to use this repo while taking the course
 
